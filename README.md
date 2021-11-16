@@ -2,12 +2,12 @@
 
 Welcome to my github space ✨ Tylerflx ✨ 
 
-- 🔭 I’m currently working on MovieShopMVC .net core project
-- 🌱 I’m currently learning asp .net, angularjs, flutter, reactjs, nodejs
-- 👯 I’m looking to collaborate on FullStack project asp .net, angularjs, nodejs, reactjs, aws
-- 🤔 I’m looking for help with leetcode problems, debugging, and detailing resume
-- 💬 Ask me about anything related to CompSci major, Digital Marketing, Courses or professors suggestion in FAU
-- 📫 How to reach me: Tylernguyen33325@gmail.com or https://www.tylernguyen.info/
+- 🔭 I’m currently employed at GDF as Junior SWE
+- 🌱 I’m working on mvc .net core 5, angularjs, JS
+- 👯 I’m looking to collaborate on FullStack project, hackathon, etc.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: During covid time, I created a website to sell Vietnamese Street Snacks and reached 200 orders in only 3 months! Our Facebook page got 500+ likes during the first 4 months we opened. It was crazy time for me but I had so much fun! I learned a lot as well
+- ⚡ Abt me : Love to travel, Watch Netflix shows/movies, Anime lover, Food's best fiend, Build my own PC, Born in Vietnam, more.
+- 💭 Motivation Quote: "Don't underestimate the power of coffee and a person with a dream"
+- 💬 Ask me about anything related to CompSci major, Digital Marketing, Courses or professors suggestion in FAU
+- 📫 Best Reach me @: Tylernguyen33325@gmail.com or https://www.tylernguyen.info/
 
