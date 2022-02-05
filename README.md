@@ -20,6 +20,10 @@
 ![](https://github-readme-stats.vercel.app/api?username=tylerflx&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tylerflx&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tylerflx&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## Daily Dev Card:
+<a href="https://app.daily.dev/tylerflx"><img src="https://api.daily.dev/devcards/6b4f67e851314698b1bdeabf1a6da703.png?r=t3r" width="400" alt="Tyler Nguyen's Dev Card"/></a>
+
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=tylerflx&theme=radical&no-frame=true&no-bg=false&margin-w=10)
 
